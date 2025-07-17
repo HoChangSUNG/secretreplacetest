@@ -3,6 +3,6 @@ JDBC_REDACTED
 313
 ㄱㅇㄹㄴ
 ㅂ4ㄴㅇㄹ
-PASSWORD_REDACTED
+시크릿234234234
 ㄴㅇ
 Sdfsdfsdffds wxs
