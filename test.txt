@@ -4,3 +4,4 @@ JDBC_REDACTED
 ㄱㅇㄹㄴ
 ㅂ4ㄴㅇㄹ
 PASSWORD_REDACTED
+ㄴㅇ
